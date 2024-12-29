@@ -1,0 +1,20 @@
+[0.490s] Invoking command in '/home/daniel/ros2_ws/src/robot_navigation': PYTHONPATH=/home/daniel/ros2_ws/build/robot_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/daniel/ros2_ws/install/robot_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/robot_navigation build --build-base /home/daniel/ros2_ws/build/robot_navigation/build install --record /home/daniel/ros2_ws/build/robot_navigation/install.log --single-version-externally-managed install_data
+[0.645s] running egg_info
+[0.645s] writing ../../build/robot_navigation/robot_navigation.egg-info/PKG-INFO
+[0.646s] writing dependency_links to ../../build/robot_navigation/robot_navigation.egg-info/dependency_links.txt
+[0.646s] writing entry points to ../../build/robot_navigation/robot_navigation.egg-info/entry_points.txt
+[0.647s] writing requirements to ../../build/robot_navigation/robot_navigation.egg-info/requires.txt
+[0.647s] writing top-level names to ../../build/robot_navigation/robot_navigation.egg-info/top_level.txt
+[0.648s] reading manifest file '../../build/robot_navigation/robot_navigation.egg-info/SOURCES.txt'
+[0.649s] writing manifest file '../../build/robot_navigation/robot_navigation.egg-info/SOURCES.txt'
+[0.649s] running build
+[0.649s] running build_py
+[0.649s] running install
+[0.649s] running install_lib
+[0.650s] running install_data
+[0.650s] running install_egg_info
+[0.651s] removing '/home/daniel/ros2_ws/install/robot_navigation/lib/python3.10/site-packages/robot_navigation-0.0.0-py3.10.egg-info' (and everything under it)
+[0.652s] Copying ../../build/robot_navigation/robot_navigation.egg-info to /home/daniel/ros2_ws/install/robot_navigation/lib/python3.10/site-packages/robot_navigation-0.0.0-py3.10.egg-info
+[0.652s] running install_scripts
+[0.669s] writing list of installed files to '/home/daniel/ros2_ws/build/robot_navigation/install.log'
+[0.693s] Invoked command in '/home/daniel/ros2_ws/src/robot_navigation' returned '0': PYTHONPATH=/home/daniel/ros2_ws/build/robot_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/daniel/ros2_ws/install/robot_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/robot_navigation build --build-base /home/daniel/ros2_ws/build/robot_navigation/build install --record /home/daniel/ros2_ws/build/robot_navigation/install.log --single-version-externally-managed install_data

@@ -1,0 +1,18 @@
+[0.617s] Invoking command in '/home/daniel/ros2_ws/build/robot_navigation': PYTHONPATH=/home/daniel/ros2_ws/build/robot_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/daniel/ros2_ws/install/robot_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/daniel/ros2_ws/build/robot_navigation/build --no-deps symlink_data --force
+[0.783s] running develop
+[0.861s] running egg_info
+[0.862s] writing robot_navigation.egg-info/PKG-INFO
+[0.862s] writing dependency_links to robot_navigation.egg-info/dependency_links.txt
+[0.862s] writing entry points to robot_navigation.egg-info/entry_points.txt
+[0.862s] writing requirements to robot_navigation.egg-info/requires.txt
+[0.862s] writing top-level names to robot_navigation.egg-info/top_level.txt
+[0.862s] reading manifest file 'robot_navigation.egg-info/SOURCES.txt'
+[0.863s] writing manifest file 'robot_navigation.egg-info/SOURCES.txt'
+[0.864s] running build_ext
+[0.865s] Creating /home/daniel/ros2_ws/install/robot_navigation/lib/python3.10/site-packages/robot-navigation.egg-link (link to .)
+[0.865s] 
+[0.865s] Installed /home/daniel/ros2_ws/build/robot_navigation
+[0.866s] running symlink_data
+[0.866s] symbolically linking /home/daniel/ros2_ws/build/robot_navigation/resource/robot_navigation -> /home/daniel/ros2_ws/install/robot_navigation/share/ament_index/resource_index/packages
+[0.866s] symbolically linking /home/daniel/ros2_ws/build/robot_navigation/package.xml -> /home/daniel/ros2_ws/install/robot_navigation/share/robot_navigation
+[0.890s] Invoked command in '/home/daniel/ros2_ws/build/robot_navigation' returned '0': PYTHONPATH=/home/daniel/ros2_ws/build/robot_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/daniel/ros2_ws/install/robot_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/daniel/ros2_ws/build/robot_navigation/build --no-deps symlink_data --force

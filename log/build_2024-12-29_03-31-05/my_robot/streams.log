@@ -1,0 +1,15 @@
+[0.018s] Invoking command in '/home/daniel/ros2_ws/build/my_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/daniel/ros2_ws/install/robot_navigation:/opt/ros/humble /usr/bin/cmake --build /home/daniel/ros2_ws/build/my_robot -- -j2 -l2
+[0.035s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.117s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.121s] -- Configuring incomplete, errors occurred!
+[0.121s] [31mCMake Error at /opt/ros/humble/share/ament_cmake_core/cmake/symlink_install/ament_cmake_symlink_install_targets.cmake:67 (message):
+[0.121s]   ament_cmake_symlink_install_targets() '<name_of_executable_target>' is not
+[0.121s]   a target
+[0.121s] Call Stack (most recent call first):
+[0.121s]   /opt/ros/humble/share/ament_cmake_core/cmake/symlink_install/install.cmake:37 (ament_cmake_symlink_install_targets)
+[0.123s]   CMakeLists.txt:14 (install)
+[0.123s] 
+[0.123s] [0m
+[0.123s] See also "/home/daniel/ros2_ws/build/my_robot/CMakeFiles/CMakeOutput.log".
+[0.123s] gmake: *** [Makefile:226: cmake_check_build_system] Error 1
+[0.164s] Invoked command in '/home/daniel/ros2_ws/build/my_robot' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/daniel/ros2_ws/install/robot_navigation:/opt/ros/humble /usr/bin/cmake --build /home/daniel/ros2_ws/build/my_robot -- -j2 -l2
